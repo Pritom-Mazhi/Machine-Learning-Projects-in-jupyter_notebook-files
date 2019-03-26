@@ -1,1 +1,1 @@
-# MachineLearning-jupyter-notebook-files
+# Machine Learning Projects in separate jupyter notebook files
